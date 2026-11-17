@@ -1,0 +1,38 @@
+# DXTN — System Architecture
+
+## Core Principle
+DXTN is one interconnected editing ecosystem, not a collection of disconnected tools.
+
+## Shared Engines
+- Timeline and Composition Engine
+- Keyframe and Animation Engine
+- Effects and Preset Engine
+- Media Processing Engine
+- AI Integration Layer
+- Project and Asset Management
+- Motion Tracking Engine
+- Rendering and Export Engine
+- Extension and Security Manager
+- Storage, Autosave and Recovery
+
+## Main Modules
+- Editing Studio
+- Animation Studio
+- Speed Lab
+- Colour Lab
+- Audio Studio
+- AI Studio
+- Motion & Layer Lab
+- Masking & Compositing
+- Cover Editor
+- Creative Library
+- Projects
+- Profile
+- Extensions
+- 3D Studio
+- Creator Community
+
+## Engineering Rule
+Every module must integrate with the shared project, timeline and media systems.
+
+No decorative buttons or fake functionality.
